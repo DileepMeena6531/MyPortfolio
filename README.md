@@ -3,5 +3,6 @@
 <h4>Technology use</h4>
 <p>HTML</p>
 <p>CSS</p>
+<p>JAVASCRIPT</p>
 
 https://dileepportfolio.onrender.com/
