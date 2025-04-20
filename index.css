@@ -165,6 +165,10 @@ body {
     gap: 1.5rem;
 }
 
+.about-text{
+    margin-left: 120px;
+}
+
 .about-img img {
     padding-bottom: 20%;
     max-width: 400px;
