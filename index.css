@@ -907,6 +907,10 @@ form textarea {
     }
 }
 
+.about-text{
+    text-align: center;
+}
+
 
 @keyframes slideRight {
     0% {
